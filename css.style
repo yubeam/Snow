@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     overflow: hidden;
-    background-image: url('your-background-image.jpg');
+    background-image: url('https://pixabay.com/get/g3a0745abe3c129ec69a504ff6bfa1ea501c1757f0c5e0a076ebd40f6724e688d9126940d86472743ec28595866bfb1429adc2d553458bd3ba50fd5951e0d85b5_1280.jpg');
     background-size: cover;
     background-attachment: fixed;
     color: white;
